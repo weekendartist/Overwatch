@@ -4,6 +4,8 @@ In this repository, you'll find a collection of different face detection and rec
 # Pre-Requisites
 Learn following concepts first to better understand what's really going on in a particular module...
 ## Module I
+- Haar-Basis Function
+- Cascade Filters
 
 # Dependencies
 Install following tools before you run the corresponding module...
