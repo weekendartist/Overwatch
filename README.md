@@ -8,3 +8,5 @@ Learn following concepts first to better understand what's really going on in a 
 # Dependencies
 Install following tools before you run the corresponding module...
 ## Module I
+Python (3x recommended)
+OpenCV (latest version)
